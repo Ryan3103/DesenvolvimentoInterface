@@ -1,0 +1,27 @@
+
+body {
+    margin: 15px 10px;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+}
+
+button {
+     color: aliceblue;
+      background-color: blue;
+      border: 0;
+      border-radius: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 15px;
+    }
+
+    li {
+        list-style: none;
+       
+    }
+
+    table {
+        background-color: darkgray;
+    }
